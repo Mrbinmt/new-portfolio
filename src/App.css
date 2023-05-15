@@ -1,7 +1,22 @@
-.App {
+/* .App {
+  text-align: center;
+} */
+.centered{
+  text-align: center;
+  /* background-color: #282c34; */
+}
+.top {
+  margin-top: 60px;
+}
+.hello{
+  background-color: beige;
   text-align: center;
 }
+.hello1{
+  background-color: brown;
+  text-align: center;
 
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -35,4 +50,7 @@
   to {
     transform: rotate(360deg);
   }
+}
+h1{
+  text-shadow: #ffffff;
 }
